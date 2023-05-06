@@ -15,4 +15,8 @@ When the user enters a question and clicks the "Submit" button, the LangChain SQ
 
 The Gradio interface makes it easy for users to quickly and easily query databases using natural language, without having to write complex SQL queries themselves. It also provides a user-friendly way for developers to showcase and test their machine learning models.
 
+Front-end Display
 ![image](https://user-images.githubusercontent.com/65903200/236637785-a254f08d-c776-461b-8372-abab6f1a35f9.png)
+
+Back-end Display
+![image](https://user-images.githubusercontent.com/65903200/236637824-aea96ae4-964e-4547-a829-584cd5bf77dc.png)
