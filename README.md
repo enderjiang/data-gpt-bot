@@ -14,3 +14,5 @@ In this program, the Gradio interface is used to provide a simple and intuitive 
 When the user enters a question and clicks the "Submit" button, the LangChain SQL Query function is called with the user's question as input. The function then generates the corresponding SQL query, executes it on the specified database, and returns the result to the interface. The result is then displayed in the output text box.
 
 The Gradio interface makes it easy for users to quickly and easily query databases using natural language, without having to write complex SQL queries themselves. It also provides a user-friendly way for developers to showcase and test their machine learning models.
+
+![image](https://user-images.githubusercontent.com/65903200/236637785-a254f08d-c776-461b-8372-abab6f1a35f9.png)
