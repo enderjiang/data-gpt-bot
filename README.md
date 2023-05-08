@@ -2,6 +2,8 @@
 Welcome to the Data GPT Bot program! This program allows you to easily query databases using natural language queries.
 
 
+![image](https://user-images.githubusercontent.com/65903200/236883520-15dfc821-aa0f-4277-9e7f-b3aee4618bde.png)
+
 
 V 1.1
 SQL Agent Bot
