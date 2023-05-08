@@ -1,6 +1,17 @@
 # data-gpt-bot
 Welcome to the Data GPT Bot program! This program allows you to easily query databases using natural language queries.
 
+
+
+V 1.1
+SQL Agent Bot
+
+Upgraded to Agent Bot so it'll create more flexible and robust behavior to db query.
+
+update front-end to allow choice of data source
+
+V 1.0
+
 The program is built using Python and leverages the GPT-3.5 architecture to convert natural language questions into SQL queries that can be executed on the specified database. The SQLDatabaseSequentialChain class is used to chain together multiple SQL queries to produce the final result.
 
 To use the program, simply enter your question in the input box and the program will generate the corresponding SQL query and execute it on the database. The result will be displayed in the output box.
